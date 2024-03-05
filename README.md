@@ -9,3 +9,10 @@ Syntax:
 <form>
       <!--form elements-->
 </form>
+
+<!--SELECT TAG-->
+The <select> tag in HTML is used to create a drop-down list. The <select> tag contains <option> tag to display the available option of the drop-down list.
+
+Note: The <select> tag is used in a form to receive user responses.
+1: In this example, we simply create a drop-down list in HTML.
+2: This example describes the HTML <select> tag with one pre-selected option.
